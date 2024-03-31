@@ -1,5 +1,7 @@
 # Phishing para captura de senhas do Mirtesnet
 
+## Phishing criado para fins didáticos, use essa ferramenta com Sabedoria. O uso indevido pode acarretar em problemas legais !
+
 ### Ferramentas
 
 - Kali Linux
